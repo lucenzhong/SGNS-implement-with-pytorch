@@ -3,6 +3,6 @@
 
 ## 参考论文
 
-1. Tomas Mikolov, et al. [Distributed Representations of Words and Phrases and their Compositionality](https://www.arxiv.org/abs/1310.4546) Proceedings of the 26th International Conference on Neural Information Processing Systems - Volume 2, Pages 3111-3119, Lake Tahoe, Nevada， USA. December 05 - 10, 2013.
+1. Tomas Mikolov, et al. [Distributed Representations of Words and Phrases and their Compositionality.](https://www.arxiv.org/abs/1310.4546) Proceedings of the 26th International Conference on Neural Information Processing Systems - Volume 2, Pages 3111-3119, Lake Tahoe, Nevada， USA. December 05 - 10, 2013.
 
-2. Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. [Efficient estimation of word representations in vector space](https://www.arxiv.org/abs/1301.3781v3) ICLR Workshop, 2013.
+2. Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. [Efficient estimation of word representations in vector space.](https://www.arxiv.org/abs/1301.3781v3) ICLR Workshop, 2013.
